@@ -22,3 +22,18 @@
 
 #### Install PHP
 - To install PHP, we will suggest you to [XAMPP](https://www.apachefriends.org/download_success.html)
+## How to run PHP code in XAMPP
+- Generally, a PHP file contains HTML tags and some PHP scripting code. It is very easy to create a simple PHP example. To do so, create a file and write HTML tags + PHP code and save this file with .php extension.
+  > Note: PHP statements ends with semicolon (;).
+
+- All PHP code goes between the php tag. It starts with ``` <?php and ends with ?>. ``` The syntax of PHP tag is given below:
+ ```                             <?php   
+                                  //your code here  
+                                ?>  
+ ```
+  - Let's see a simple PHP example where we are writing some text using PHP echo command.
+   ```                                  <?php      
+                                          echo "Hello World!";  
+                                        ?> 
+ ```
+ 
